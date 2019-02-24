@@ -6,13 +6,11 @@ Exemplos de configurações do [Terraform][tf] com a [Azure][az], do básico ao 
 
 Cada diretório é um exemplo, veja os detalhes na tabela abaixo:
 
-| Exemplo                       | Free | Descrição  |
-|-------------------------------|------|--------------------------------------------------------------------------|
-| exemplo01-azure-vm            | Sim  | Cria o resource group, network security group, nic, public ip e a VM     |
-| exemplo02-privisioners        | Sim  | Igual ao anterior. Mas copia um arquivo e executa um shell               |
-| exemplo03-modules             | Sim  | Cria os recursos utilizando os módulos network e compute                 |
-
-* Free: se refere ao Amazon Free Tier. Em alguns casos pode ocorrer cobrança.
+| Exemplo                       | Descrição  |
+|-------------------------------|--------------------------------------------------------------------------|
+| exemplo01-azure-vm            | Cria o resource group, network security group, nic, public ip e a VM     |
+| exemplo02-privisioners        | Igual ao anterior. Mas copia um arquivo e executa um shell               |
+| exemplo03-modules             | Cria os recursos utilizando os módulos network e compute                 |
 
 # Configurando as credenciais na amazon
 
