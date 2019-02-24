@@ -1,0 +1,1 @@
+Simple Text file to be copied to VM on Azure
